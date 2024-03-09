@@ -17,3 +17,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 More levels? More enemies? Bosses?
 
 ## Created by
+Eric Lasse
