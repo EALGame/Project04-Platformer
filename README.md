@@ -1,12 +1,10 @@
 # Project04-Platformer
+Exercise for MSCH-C220
 
-# Project Name
-Context and date
-
-Description
+A simple platformer, created in Unity
 
 ## Implementation
-Which features you included.
+Three different enemies: Jumping, Walking and Charging. Coins to collect
 
 ## References
 
@@ -15,5 +13,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+
+More levels? More enemies? Bosses?
 
 ## Created by
